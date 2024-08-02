@@ -9,6 +9,7 @@ const Hero = () => {
                 <p>Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education.</p>
                 <button className="btn">
                     Explore More
+{/*                     This is img tag */}
                     <img src={dark_arrow} alt="Dark Arrow" />
                 </button>
             </div>
